@@ -1,2 +1,0 @@
-respositorio local
-recebido no repositorio remoto
